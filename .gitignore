@@ -1,21 +1,21 @@
 .atom-build.json
 */enabled/*
 .DS_Store
-custom/*
+# custom/*
 !custom/example.bash
 .rvmrc
-aliases/custom.aliases.bash
-completion/custom.completion.bash
-lib/custom.bash
-plugins/custom.plugins.bash
+# aliases/custom.aliases.bash
+# completion/custom.completion.bash
+# lib/custom.bash
+# plugins/custom.plugins.bash
 *.swp
 .*.un~
 bats
 .idea
 *.sublime-workspace
 *.sublime-project
-enabled/*
-/enabled
+# enabled/*
+# /enabled
 tmp/
 
 # Do not save profiles
