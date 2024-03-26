@@ -8,6 +8,7 @@ alias vimrc='vim ~/Project/dotfiles/.vimrc'
 alias kittyrc='vim ~/Project/dotfiles/.config/kitty/kitty.conf'
 alias hyprrc='vim ~/Project/dotfiles/.config/hypr/hyprland.conf'
 alias gitconfig='vim ~/Project/dotfiles/.gitconfig'
+alias config='vim ~/Project/dotfiles/.config/waybar/config'
 
 #alias l='LANG=C.UTF-8 ls -A --group-directories-first --indicator-style=classify --escape'
 alias l='exa -A --group-directories-first --git --icons --color=always'
