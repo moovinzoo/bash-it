@@ -15,6 +15,7 @@ alias l='exa -A --group-directories-first --git --icons --color=always'
 #alias ll='LANG=C.UTF-8 ls -lA --group-directories-first --indicator-style=classify --escape'
 alias ll='exa -lA --group-directories-first --git --icons --color=always'
 alias lt='exa -A --tree --git --color=always'
+alias lt3='exa -A --tree --git --color=always -L 3'
 
 # git
 alias ga='git add -A'
