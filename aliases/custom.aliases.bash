@@ -19,6 +19,7 @@ alias lt3='exa -A --tree --git --color=always -L 3'
 
 # git
 alias ga='git add -A'
+alias gap='git add -p'
 alias gcb='git checkout -b'
 alias gcm='git commit -m'
 alias gd='git diff'
@@ -26,6 +27,9 @@ alias gds='git diff --staged'
 alias gcb='git checkout -b'
 alias gst='git status'
 alias glo='git log --oneline'
+alias gsp='git show -p'
+alias gr='git reset HEAD~1'
+
 alias lazy='lazygit'
 
 #alias diff='git diff | delta --navigate --paging always'
